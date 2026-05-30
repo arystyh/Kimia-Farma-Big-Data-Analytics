@@ -19,7 +19,7 @@ Dashboard ini menyajikan beberapa analisis utama:
 - `kf_analysis_query.sql`: File yang berisi query SQL lengkap untuk menggabungkan tabel `kf_final_transaction`, `kf_inventory`, `kf_kantor_cabang`, dan `kf_product` serta perhitungan kolom baru seperti *Nett Sales* dan *Nett Profit*.
 
 ## How to Access
-- **Looker Studio Dashboard**: [MASUKKAN LINK DASHBOARD ANDA DI SINI]
+- **Looker Studio Dashboard**: https://datastudio.google.com/reporting/234d1345-9a31-4121-9042-87884bc9a939
 - **SQL Source Code**: Silakan cek file `.sql` di repositori ini.
 
 ---
